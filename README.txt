@@ -1,8 +1,4 @@
-Alex Meyer (meyerale)
-CS372 - F2017
-Project 2
-Due 11/26/2017
-
+Alex Meyer
 
 TCP File Transfer Server:
 

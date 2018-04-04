@@ -1,15 +1,10 @@
 /*----------------------------------------------------------------------------
  *
- *  Name:  Alex Meyer (meyerale)
- *  Clase:  CS372, F17
- *  Assignment:  program 2
- *  Due Date:  10/26/2017
+ *  Name:  Alex Meyer
  *  Description:  File transfer server that listens for a connection and then
  *        opens a second connection to sends a list of diretory contents or a
  *        requested file to the client on a given port number.
  *
- *      Socket setup code is based on program 4 from CS344 with some modifications to
- *      meet the requirements of this assignment.
  *
  *----------------------------------------------------------------------------*/
 

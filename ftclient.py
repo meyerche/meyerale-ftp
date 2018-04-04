@@ -1,15 +1,9 @@
 # ----------------------------------------------------------------------------
 #
-#   Name:  Alex Meyer (meyerale)
-#   Clase:  CS372, F17
-#   Assignment:  program 2
-#   Due Date:  10/26/2017
+#   Name:  Alex Meyer
 #   Description:  File transfer client that connects to a server and requests
 #         either a list of files or a file, and listens on a given port for
 #         the server to send on the data connection.
-#
-#       Socket setup code is based on program 4 from CS344 with some modifications to
-#       meet the requirements of this assignment.
 #
 # ----------------------------------------------------------------------------
 
