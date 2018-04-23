@@ -1,6 +1,4 @@
-Alex Meyer
-
-TCP File Transfer Server:
+TCP File Transfer Server using socket programming in C and Python:
 
 COMPILE:
 In the serverFolder directory...
